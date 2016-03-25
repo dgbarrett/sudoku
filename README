@@ -1,0 +1,10 @@
+How to build/run:
+	
+	- cd to the src directory
+	- to build : make 
+	- to run : ./main
+
+Limitations:
+
+	- file names can only be 50 chars long.
+	- no leading whitespace permitted in input file.
